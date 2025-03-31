@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hi, I am Kelvin, also knows as 3_n on the net.
+
+> [!NOTE]  
+> This `README` is still under heavy work, so there's not much going on here. Sorry for the mess!
+
 <!--
 **3underscoreN/3underscoreN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
