@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I am Kelvin, also knows as 3_n on the net.
+Hi, I am Kelvin, also known as 3_n on the net.
 
 > [!NOTE]  
 > This `README` is still under heavy work, so there's not much going on here. Sorry for the mess!
