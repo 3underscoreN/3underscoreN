@@ -1,17 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
 Hi, I am Kelvin, also known as 3_n on the net.
 
-### Stacks
+## Stacks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Interests
+## Interests
 Writing ~~bad~~ frontend code
 
-### Contacts
+## Contacts
 [Email](mailto:cychandt@connect.ust.hk)
 
 > [!NOTE]  
