@@ -9,7 +9,7 @@ Hi, I am Kelvin, also known as 3_n on the net.
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Interests
-Writing ~~bad frontend code~~ frontend code
+Writing ~~bad~~ frontend code
 
 ### Contacts
 [Email](mailto:cychandt@connect.ust.hk)
