@@ -12,7 +12,7 @@ Hi, I am Kelvin, also known as 3_n on the net.
 Writing ~~bad~~ frontend code
 
 ## Contacts
-[Email](mailto:cychandt@connect.ust.hk)
+[Email](mailto:me@3underscoreN.work)
 
 > [!NOTE]  
 > This `README` is still under work, so there's not much going on here. Sorry for the mess!
