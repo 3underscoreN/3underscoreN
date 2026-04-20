@@ -9,10 +9,11 @@ Hi, I am Kelvin, also known as 3_n on the net.
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## Interests
-Writing ~~bad~~ frontend code
+- Writing ~~bad~~ code
+- Putting every task to the backlog
 
 ## Contacts
-[Email](mailto:me@3underscoreN.work)
+[Email](mailto:me@3underscoreN.work) | [Other methods](https://3underscoreN.work/contact)
 
 > [!NOTE]  
 > This `README` is still under work, so there's not much going on here. Sorry for the mess!
