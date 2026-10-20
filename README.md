@@ -2,21 +2,25 @@
 
 Hi, I am Kelvin, also known as 3_n on the net.
 
-## Stacks
+## I am familiar with these... I guess.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Interests
 - Writing ~~bad~~ code
+- Getting anxious
 - Putting every task to the backlog
 
 ## Contacts
 [Email](mailto:me@3underscoreN.work) | [Other methods](https://3underscoreN.work/contact)
 
 > [!NOTE]  
-> This `README` is still under work, so there's not much going on here. Sorry for the mess!
+> This `README` is still under work, so there's not much going on here. Sorry for the mess;;
 
 <!--
 **3underscoreN/3underscoreN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
