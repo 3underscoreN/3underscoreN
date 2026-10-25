@@ -21,9 +21,6 @@ I occasionally convince computers & browsers to do what I want. Most of them are
 ## Contacts
 [Email](mailto:me@3underscoreN.work) | [Other methods](https://3underscoreN.work/contact)
 
-> [!NOTE]  
-> This `README` is still under work, so there's not much going on here. Sorry for the mess;;
-
 <!--
 **3underscoreN/3underscoreN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
