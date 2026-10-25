@@ -2,7 +2,7 @@
 
 Hi, I am Kelvin, also known as 3_n on the net.
 
-Occasionally convincing computers & browsers to do what I want. Mostly by accident.
+I occasionally convince computers & browsers to do what I want. Most of them are by accident.
 
 ## I am familiar with these... I guess.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
